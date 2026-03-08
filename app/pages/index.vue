@@ -1,9 +1,10 @@
 <template>
   <div>
     <HomeHero />
+    <HomeSiswa />
     <div class="max-w-4xl mx-auto">
-      <HomeSiswa />
       <HomeKegiatan />
     </div>
+    <HomeVisi />
   </div>
 </template>
